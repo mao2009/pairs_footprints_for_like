@@ -5,7 +5,7 @@ requires = ['selenium']
 setup(
     name='pairs_footprints_for_like',
     version='1.0',
-    py_modules={'pairs_footprints_for_like.py'},
+    py_modules={'pairs_footprints_for_like'},
     install_requires=requires,
     entry_points={
         'console_scripts': [
